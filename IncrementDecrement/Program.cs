@@ -13,7 +13,7 @@ namespace IncrementDecrement
         
         static void Main(string[] args)
         {
-            /*
+            
             int nn = 8;
             int ee = -3;
             int u;
@@ -29,7 +29,7 @@ namespace IncrementDecrement
             //n = 10  ee = -3  u = 26
 
 
-            */
+            
 
             /*
             int i = 0;
